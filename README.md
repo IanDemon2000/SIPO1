@@ -27,6 +27,6 @@ Gonilike rabiš praktično za vse kaj imaš v računalniku ali pa priključiš n
 
 7. HDD vs SSD
 
-
+HDD je starejša tehnologija, ki uporablja mehanske dele. Podatki se zapisujejo na vrteče magntne pošče nad njimi pa je igla ki piše in bere vse podatke. SSD pa je bolj sodobna tehnologija, ki nima nobenih premikajočih delov. Podatki pa se shranjujejo na NAND chipe z elektriko, to je podobno kot na SD katicah ali pa telefonih. Razlika je tudi v hitrosti, HDD se meri v RPM, ampak vseeno lahko dobi samo maksimalno hitrost 100-150 MB/s, to ni nič proti SSD ki pa lahko doseže od 500 vse do 7000+ MB/s. Pri HDD se računalnik tudi 
 
 8. Kaj je particija
