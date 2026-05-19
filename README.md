@@ -19,11 +19,11 @@ To pomeni da se OS ob zaguonu naloži v RAM, ki lahko računalnik z njim dejansk
 
 5. Kaj je gonlinik
 
-
+Gonilniki ali po angleško drivers, so programska oprema ki je kot prevajalec med OS-om in strojno opremo. Brez gonilnikov OS ne bi niti videl kako uporabljati napravo, ki je v računalniku. To so lahko Tiskalniki, miška, grafična kartica, WI-FI kartica... To si lahko predstvaljamo tako da OS ukaže grafični kartici da mora renderati nekaj, to gre skozi gonilnik ki prevedejo v jezik ki jo lahko razume in grafična kartica to lahko razume brez problema. Če pa nimamo gonilnikov pa lahko se zgodi da Naprava sploh ne deluje, deluje slabše kot če bi imela gonilnike ali pa se sistem samo sesuje in dobiš na Windows Blue screen.
 
 6. Kje ga potrebujemo
 
-
+Gonilike rabiš praktično za vse kaj imaš v računalniku ali pa priključiš nanj. Samo večino gonilnikov za miške, tipkovnice in druge zunanje naprave ne rabimo si nalagati ker ima OS že vsebuje več tisoč generičnih gonilnikov. Samo potrebujemo jih za notranje naprave, kot so GPU ki je klučna za prikaz slike na zaslonu
 
 7. HDD vs SSD
 
