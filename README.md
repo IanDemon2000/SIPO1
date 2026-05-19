@@ -23,7 +23,7 @@ Gonilniki ali po angleško drivers, so programska oprema ki je kot prevajalec me
 
 6. Kje ga potrebujemo
 
-Gonilike rabiš praktično za vse kaj imaš v računalniku ali pa priključiš nanj. Samo večino gonilnikov za miške, tipkovnice in druge zunanje naprave ne rabimo si nalagati ker ima OS že vsebuje več tisoč generičnih gonilnikov. Samo potrebujemo jih za notranje naprave, kot so GPU ki je klučna za prikaz slike na zaslonu
+Gonilike rabiš praktično za vse kaj imaš v računalniku ali pa priključiš nanj. Samo večino gonilnikov za miške, tipkovnice in druge zunanje naprave ne rabimo si nalagati ker ima OS že vsebuje več tisoč generičnih gonilnikov. Samo potrebujemo jih za notranje naprave, kot so GPU ki je klučna za prikaz slike na zaslonu in če nebi imeli gonilnikov bi bila resolucija slabša, če bi premikal okne po zaslonu bi skakale in večino programov nebi niti zagnalo se. Eni taki pomembni so tudi za matično ploščo ali njegov chipset, ki usmerja promet med procesorjem in RAM-om in drugimi komponenti. Potem imaš zunanje naprave. Najbolj znani primer so tiskalniki in skenerji, ker morejo vedeti točno kako zmešati barve in premikati papir da se risba pravilno prikaže. Potem pa so še posebni ali profesionalni gonilniki. Eden tak je za VR očala, ki morajo računalniku več tisočkrat na sekundo sporočiti računalniku kam si se obrnil. Zato gonilnike potebujemo v vseh računalnikih da lahko programska in strojna oprema komunicirata. Brez njih bi bil računalnik samo kup drage plastike in kovine.
 
 7. HDD vs SSD
 
