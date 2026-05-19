@@ -15,7 +15,7 @@ Prva razlika je cena. Windows je za plačati da dobiš ključ, macOS je vključe
 
 4. Kaj pomeni da se naloži ob zagonu
 
-
+To pomeni da se OS ob zaguonu naloži v RAM, ki lahko računalnik z njim dejansko upravlja. To se zgodi tako da ko računalnik dobi elektriko, se zažene BIOS ali pa UEFI in njegova naloga je da preveri če strojna oprema deluje pravilno, temu procesu se reče POST(Power On Shel)
 
 5. Kaj je gonlinik
 
