@@ -15,7 +15,7 @@ Prva razlika je cena. Windows je za plačati da dobiš ključ, macOS je vključe
 
 4. Kaj pomeni da se naloži ob zagonu
 
-To pomeni da se OS ob zaguonu naloži v RAM, ki lahko računalnik z njim dejansko upravlja. To se zgodi tako da ko računalnik dobi elektriko, se zažene BIOS ali pa UEFI in njegova naloga je da preveri če strojna oprema deluje pravilno, temu procesu se reče POST(Power On Self Test). Potem BIOS/UEFI pogleda tvoj disk, to je lahko ali SSD ali pa HDD in poišče zagonski nalagalnik (bootloader).
+To pomeni da se OS ob zaguonu naloži v RAM, ki lahko računalnik z njim dejansko upravlja. To se zgodi tako da ko računalnik dobi elektriko, se zažene BIOS ali pa UEFI in njegova naloga je da preveri če strojna oprema deluje pravilno, temu procesu se reče POST(Power On Self Test). Potem BIOS/UEFI pogleda tvoj disk, to je lahko ali SSD ali pa HDD in poišče zagonski nalagalnik (bootloader). Ko najde to potem vzame jedro OS in ga iz diska premakne v RAM. Potem OS prevzame nadzor nad računalnikom, ko ima to naloži gonilnike za vse naprave in zažene grafični vmestnik, da lahko vidiš kaj počneš. OS pa se naloži v RAM ker je veliko hitrejši kot če bi bil samo v SSD-ju shranjen.
 
 5. Kaj je gonlinik
 
